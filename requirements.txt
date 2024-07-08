@@ -1,0 +1,7 @@
+instaloader==4.11
+pandas==2.2.2
+plotly==5.9.0
+plotly==5.19.0
+streamlit==1.30.0
+streamlit==1.36.0
+streamlit_option_menu==0.3.13
