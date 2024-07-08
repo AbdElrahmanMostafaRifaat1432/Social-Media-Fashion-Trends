@@ -77,11 +77,11 @@ with st.sidebar:
                            menu_icon="cast", default_index=0)
 
 # Load the dataset for the Data page
-data_dataset_path = "C:/Users/Alaa/Desktop/Final_labeled_dataset.csv"
+data_dataset_path = "Final_labeled_dataset.csv"
 data_df = pd.read_csv(data_dataset_path)
 
 # Load the dataset for the EDA page
-eda_dataset_path = "C:/Users/Alaa/Desktop/FullDataset_Cleaned_Labelled_Normalized.csv"
+eda_dataset_path = "FullDataset_Cleaned_Labelled_Normalized.csv"
 eda_df = pd.read_csv(eda_dataset_path)
 
 # Pages content
