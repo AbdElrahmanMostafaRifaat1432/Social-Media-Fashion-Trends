@@ -1,4 +1,4 @@
-FROM python:3.11
+FROM python:3.9
 EXPOSE 8080
 
 Add requirements.txt requirements.txt
